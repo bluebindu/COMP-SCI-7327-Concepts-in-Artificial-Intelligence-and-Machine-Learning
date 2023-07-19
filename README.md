@@ -13,3 +13,8 @@ A repository of assignment solutions and feedback for the postgradute course COM
 --> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7327-Concepts-in-Artificial-Intelligence-and-Machine-Learning/blob/main/Assignment%201%20-%20Supervised%20Learning/Assignment1_Q.ipynb)\
 --> [Feedback](https://github.com/bluebindu/COMP-SCI-7327-Concepts-in-Artificial-Intelligence-and-Machine-Learning/blob/main/Assignment%201%20-%20Supervised%20Learning/Feedback-Assignment-1-Supervised-Learning.pdf)
 
+### Assignment 2: Unsupervised Learning
+--> Marks: TBD\
+--> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7327-Concepts-in-Artificial-Intelligence-and-Machine-Learning/blob/main/Assignment%202%20-%20Unsupervised%20Learning/Assignment2-Q.ipynb)\
+--> Feedback (TBD)
+
